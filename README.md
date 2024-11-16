@@ -12,3 +12,10 @@ Top SQL 50 problems of Leetcode.
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Danyal-Rana/SQL_50/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1877-find-followers-count](https://github.com/Danyal-Rana/SQL_50/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Danyal-Rana/SQL_50/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Danyal-Rana/SQL_50/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
